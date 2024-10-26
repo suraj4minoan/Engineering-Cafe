@@ -34,10 +34,17 @@ ng new dynamic-styling-example
 cd dynamic-styling-example
 ng serve
 ```
-<div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/jgEYn-ldr30" 
-        title="Web Load Testing with West Wind WebSurge 2" frameborder="0" allowfullscreen
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        style="position: absolute; width: 100%; height: 100%;">
-</iframe>
-</div>
+
+[//]: # (<div style="position: relative; width: 100%; padding-bottom: 56.25%">)
+
+[//]: # (<iframe src="https://www.youtube.com/embed/jgEYn-ldr30" )
+
+[//]: # (        title="Web Load Testing with West Wind WebSurge 2" frameborder="0" allowfullscreen)
+
+[//]: # (        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" )
+
+[//]: # (        style="position: absolute; width: 100%; height: 100%;">)
+
+[//]: # (</iframe>)
+
+[//]: # (</div>)
