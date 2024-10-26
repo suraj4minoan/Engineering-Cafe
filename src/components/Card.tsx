@@ -17,7 +17,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
   };
 
   return (
-    <li className="my-6">
+    <li className="my-8">
       <a
         href={href}
         className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
@@ -28,8 +28,8 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           <h3 {...headerProps}>{title}</h3>
         )}
       </a>
-      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
-      <p>{description}</p>
+      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime}  className="py-2"/>
+      <p style={{lineHeight: "2rem" }}>{description}</p>
     </li>
   );
 }

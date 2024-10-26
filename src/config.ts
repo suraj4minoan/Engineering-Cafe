@@ -3,9 +3,9 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
   author: "Sat Naing",
-  profile: "https://satnaing.dev/",
+  profile: "https://howdysuraj.web.app/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "Suraj's Engineering Cafe",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -28,26 +28,26 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: ` ${SITE.title} on Github`,
+    href: "https://github.com/howdysuraj",
+    linkTitle: `Follow on Github`,
     active: true,
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Facebook`,
+    href: "https://www.facebook.com/surajsugga",
+    linkTitle: `Connect on Facebook`,
     active: true,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Instagram`,
+    href: "https://www.instagram.com/faceless_sugga/",
+    linkTitle: `Follow on Instagram`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
+    href: "https://www.linkedin.com/in/surajsuggasingh/",
+    linkTitle: `Follow on LinkedIn`,
     active: true,
   },
   {
@@ -58,9 +58,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitter`,
-    active: false,
+    href: "https://twitter.com/SurajSugga",
+    linkTitle: `Follow on Twitter`,
+    active: true,
   },
   {
     name: "Twitch",
@@ -76,8 +76,8 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on WhatsApp`,
+    href: "https://wa.me/919162984200",
+    linkTitle: `Chat on WhatsApp`,
     active: false,
   },
   {
