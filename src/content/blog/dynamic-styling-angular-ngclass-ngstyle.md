@@ -1,8 +1,8 @@
 ---
 author: Suraj Kumar
-pubDatetime: 2024-10-28T15:22:00Z
-modDatetime: 2024-10-28T09:12:47.400Z
-title: 'Dynamic Styling in Angular: Using ngClass and ngStyle'
+pubDatetime: 2022-09-23T15:22:00Z
+modDatetime: 2023-12-21T09:12:47.400Z
+title: Dynamic Styling in Angular -  Using ngClass and ngStyle
 slug: dynamic-styling-angular-ngclass-ngstyle
 featured: true
 draft: false
